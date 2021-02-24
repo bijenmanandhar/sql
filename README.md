@@ -1,2 +1,2 @@
 # sql
-This contains my SQL practise and assignments querries and results.
+This contains my SQL practice and assignment querries with results.
